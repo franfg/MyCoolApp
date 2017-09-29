@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "my-health-manager",
+    "healthPage": "my-health-manager"
+  }
+}
