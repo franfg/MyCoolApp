@@ -137,12 +137,6 @@ angular
   })
   .config(function(){
 	  var config = {
-		apiKey: "AIzaSyBsSGQBawlDSAdEJOrOG2y3ZEF3d9v8dpU",
-		authDomain: "my-health-manager.firebaseapp.com",
-		databaseURL: "https://my-health-manager.firebaseio.com",
-		projectId: "my-health-manager",
-		storageBucket: "my-health-manager.appspot.com",
-		messagingSenderId: "210492031999"
 	  };
 	  firebase.initializeApp(config);
 	})
